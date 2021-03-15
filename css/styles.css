@@ -1,6 +1,6 @@
 /* NAVBAR */
 .nav__logo {
-  width: 3rem;
+  width: 30px;
 }
 
 /* JUMBOTRON */
@@ -8,6 +8,11 @@
   background-image: url('/img/no-img.png');
   background-position: center;
   background-repeat: no-repeat;
+}
+
+/* SPEAKER CARD */
+.img__custom {
+  width: 50px
 }
 
 /* IMAGES */
