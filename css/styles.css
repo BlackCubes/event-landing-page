@@ -5,9 +5,8 @@
 
 /* JUMBOTRON */
 .jumbotron__bg-img {
-  background-image: src('/img/no-img.png');
+  background-image: url('/img/no-img.png');
   background-position: center;
-  background-size: cover;
   background-repeat: no-repeat;
 }
 
